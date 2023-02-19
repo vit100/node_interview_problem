@@ -1,6 +1,6 @@
-# Interview shared screen working session.
+# Programming challenge.
 
-This is sample app which supposed to be used as a template during interview working session. Candidate will work on the tasks with screen sharing on.
+This is sample app which supposed to be used as a programming challenge during interview working session. Candidate will work on the tasks with screen sharing on.
 ## Introduction
 
 Application calculates total population based on data describing each country population.
