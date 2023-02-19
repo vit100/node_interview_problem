@@ -1,7 +1,7 @@
 {
   "name": "node_interview_problem",
   "version": "1.0.0",
-  "description": "Start project for initial interview working session",
+  "description": "Start project for interview working session",
   "main": "dist/index.js",
   "repository": {
     "url": "https://github.com/vit100/node_interview_problem",
