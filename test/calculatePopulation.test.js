@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import calculatePopulation from '../src/index';
+import calculatePopulation from '../src/calculatePopulation';
 
 const testData = [
   {
